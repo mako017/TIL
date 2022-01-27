@@ -8,4 +8,4 @@ Today I Learned. A collection of code snippets and programming concepts I picked
 
 ### Typscript
 
-- [Line Segment Intersection](typescript/Line_Segement_Intersection.md)
+- [Line Segment Intersection](TypeScript/Line_Segement_Intersection.md)
