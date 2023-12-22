@@ -4,7 +4,12 @@ Today I Learned. A collection of code snippets and programming concepts I picked
 
 ### Categories
 
+- [Rust](#rust)
 - [Typescript](#typescript)
+
+### Rust
+
+- [Switch Case](Rust/Switch_Case.md)
 
 ### Typscript
 
